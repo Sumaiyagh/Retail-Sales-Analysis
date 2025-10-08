@@ -5,6 +5,11 @@ This project provides a **comprehensive retail performance analysis** across mul
 It highlights key sales metrics, profitability trends, and customer purchasing patterns to uncover actionable insights that drive **data-driven business decisions**.
 
 The analysis focuses on **sales performance between 2022–2024** across four major regions — East, West, North, and South — with detailed segmentation by **product category** and **seasonality**.
+<img width="1510" height="853" alt="image" src="https://github.com/user-attachments/assets/3e539040-469d-45e6-a267-b28edab109bd" />
+<img width="1517" height="851" alt="image" src="https://github.com/user-attachments/assets/f8bf469a-02cf-4b96-a197-0217745e6716" />
+<img width="1507" height="852" alt="image" src="https://github.com/user-attachments/assets/2a101ed8-58fc-469f-b38b-048ce41114ac" />
+<img width="1513" height="852" alt="image" src="https://github.com/user-attachments/assets/2199aa22-9766-43ad-bf74-ba9babb5f49f" />
+
 
 ---
 
