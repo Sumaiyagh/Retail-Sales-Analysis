@@ -145,5 +145,16 @@ This Power BI project demonstrates advanced data storytelling through:
 
 It reflects **data analytics proficiency in transforming complex datasets into strategic intelligence** for business decision-making — suitable for **retail domain analytics** roles.
 
+
+---
+
+## 👩‍💻 About the Analyst
+**Sumaiya — Data Analyst (4+ years experience)**  
+Skilled in **Power BI, SQL, Excel, Python and Data Visualization**, with expertise in building **end-to-end BI dashboards** that transform business data into actionable insights.
+
+📧 [sumaiyasumi2954@gmail.com]  
+🔗 [[LinkedIn Profile](https://www.linkedin.com/in/sumaiya-b-786s2001/)]  
+💻 [[GitHub Portfolio](https://github.com/Sumaiyagh)]
+
 ---
 
